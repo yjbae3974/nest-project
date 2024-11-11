@@ -20,7 +20,7 @@ import { UserProfilesModule } from './userprofiles/userprofile.module';
     BoardsModule,
     UsersModule,
     AuthModule,
-    UserProfilesModule
+    UserProfilesModule,
   ],
 })
 export class AppModule {}
